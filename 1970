@@ -1,0 +1,5 @@
+porque é sempre 1º de janeiro de 1970,
+ Porque - '1º de janeiro de 1970' geralmente chamado de "data de época" é a
+ data em que a hora começou para computadores Unix, e esse carimbo de data / 
+ hora é marcado como '0'. Qualquer momento desde essa data é calculado com base
+  no número de segundos decorridos.
