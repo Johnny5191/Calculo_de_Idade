@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25%;
+}
+input{
+    margin-top: 5%;
+    height: 50%;
+}
+button{
+    margin-top: 5%;
+    padding: 2%;
+   
+}
+.parte1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
